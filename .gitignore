@@ -2,3 +2,4 @@ DBIx-Conn-Pg-*
 .build
 *~
 nytprof*
+.DS_Store
